@@ -2,8 +2,8 @@
 
 echo "Enter your name: "
 read name
-echo " Enter your place: "
-read place
+echo " Enter your Age: "
+read Age
 
 echo "My name is : " $name
-echo "My place is : " $place
+echo "My Age  : " $Age
